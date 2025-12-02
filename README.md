@@ -1,5 +1,4 @@
-## Hi there 👋
-<h1 align="center">👋 Hola, soy Bruno Matamala</h1>
+<h1 align="center">👋 Hola, Me llamo Bruno Matamala</h1>
 
 <p align="center">
   Técnico en Informática | Desarrollo Web | JavaScript · Python · SQL
