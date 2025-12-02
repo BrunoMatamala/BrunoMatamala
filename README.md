@@ -43,16 +43,8 @@ Me gusta crear aplicaciones útiles, responsivas y bien estructuradas. También 
 ---
 
 ## 📂 Proyectos Destacados
-*(los iremos agregando a medida que los subas)*
-
-🔹 **App Web con JavaScript**  
-Aplicación responsiva con conexión a base de datos.
-
-🔹 **Dashboard con Python**  
-Análisis de datos y visualización para toma de decisiones.
-
-🔹 **Automatización con Python + Excel**  
-Scripts para simplificar procesos repetitivos.
+Aún estoy organizando mis proyectos para publicarlos aquí.  
+Pronto subiré aplicaciones web, scripts en Python y ejercicios de análisis de datos.
 
 ---
 
